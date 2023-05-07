@@ -23,10 +23,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Liste des contenus">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-    <title>Tiny Dashboard - A Bootstrap Dashboard Template</title>
+    <title>Liste des contenus</title>
     <!-- Simple bar CSS -->
     <link rel="stylesheet" href="<%= request.getContextPath() %>/assets/css/simplebar.css">
     <!-- Fonts CSS -->
@@ -91,7 +91,7 @@
                 <div class="col-md-12">
                     <div class="row align-items-center my-3">
                         <div class="col">
-                            <h2 class="page-title">Contenus</h2>
+                            <h1 class="page-title">Liste des contenus</h1>
                         </div>
                         <div class="col-auto">
                             <a href="<%= request.getContextPath() %>/newContents"><button type="button" class="btn btn-lg btn-primary"><span class="fe fe-plus fe-16 mr-3"></span>Nouveau</button></a>

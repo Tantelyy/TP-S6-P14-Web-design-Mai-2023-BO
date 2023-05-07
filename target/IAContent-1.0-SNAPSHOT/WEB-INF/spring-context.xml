@@ -6,9 +6,9 @@
     <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
           destroy-method="close">
         <property name="driverClassName" value="org.postgresql.Driver" />
-        <property name="url" value="jdbc:postgresql://localhost:5432/tps6mai" />
-        <property name="username" value="webdesign" />
-        <property name="password" value="secret" />
+        <property name="url" value="jdbc:postgresql://containers-us-west-73.railway.app:6427/railway" />
+        <property name="username" value="postgres" />
+        <property name="password" value="kYctwBJXMB1lA329gH3H" />
     </bean>
 
     <!-- Hibernate 5 Annotation SessionFactory Bean definition-->

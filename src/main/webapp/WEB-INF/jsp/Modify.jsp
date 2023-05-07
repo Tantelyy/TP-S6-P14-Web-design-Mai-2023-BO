@@ -31,10 +31,10 @@
     </style>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Modifier le contenu">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-    <title>Nouveau contenu</title>
+    <title>Modifier le contenu</title>
     <!-- Simple bar CSS -->
     <link rel="stylesheet" href="<%= request.getContextPath() %>/assets/css/simplebar.css">
     <!-- Fonts CSS -->
@@ -104,7 +104,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <h2 class="page-title">Nouveau contenu</h2>
+                    <h2 class="page-title">Modifier le contenu</h2>
                     <div class="row">
                         <div class="col-md-12">
                             <div class="card shadow mb-4">
